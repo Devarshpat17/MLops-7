@@ -34,7 +34,7 @@ MLOps (Machine Learning Operations) is a practice that aims to deploy and mainta
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Devarshpat17/MLops-7
    cd MLops
    ```
 
