@@ -1,0 +1,51 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.webp
+*.ico
+*.raw
+*.cr2
+*.nef
+*.orf
+*.sr2
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+*.mkv
+*.m4v
+*.3gp
+*.3g2
+*.rm
+*.swf
+*.vob
+*.asf
+*.mpg
+*.mpeg
+*.m2v
+*.ts
+*.mts
+*.m2ts
+
+# Audio files (commonly associated with video projects)
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.wma
+*.m4a
+
+# Thumbnail cache files
+Thumbs.db
+.DS_Store
