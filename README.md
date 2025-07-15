@@ -10,7 +10,6 @@ MLops/
 ├── .gitignore         # Git ignore patterns for media files and system cache
 ├── Hello.txt          # Initial project file
 ├── P1/                # Project 1 directory
-├── forge.yaml         # Forge configuration file
 └── ...
 ```
 
