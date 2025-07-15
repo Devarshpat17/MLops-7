@@ -66,7 +66,7 @@ Description of the first project will be added here.
 - **Institution**: NIRMA University
 - **Semester**: 7
 - **Course**: MLOps (Machine Learning Operations)
-- **Academic Year**: 2024-25
+
 
 ## Contributing
 This is a course project repository. For collaboration:
