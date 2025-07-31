@@ -3,15 +3,7 @@
 ## Overview
 This repository contains coursework and projects for the MLOps (Machine Learning Operations).
 
-## Project Structure
-```
-MLops/
-├── README.md           # Project documentation
-├── .gitignore         # Git ignore patterns for media files and system cache
-├── Hello.txt          # Initial project file
-├── P1/                # Project 1 directory
-└── ...
-```
+
 
 ## About MLOps
 MLOps (Machine Learning Operations) is a practice that aims to deploy and maintain machine learning models in production reliably and efficiently. This course covers:
